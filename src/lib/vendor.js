@@ -17,6 +17,5 @@ function deliveredVendor(payload){
 }
 
 setInterval(()=>{
-    console.log('================================================================');
-    events.emit('Create Order' , {vendorData} )
+        events.emit('Create Order' , {vendorData} )
 },4001);
