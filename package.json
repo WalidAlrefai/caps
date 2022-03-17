@@ -1,0 +1,28 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hub.js",
+  "scripts": {
+    "test": "jest",
+    "start": "hub.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WalidAlrefai/caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WalidAlrefai/caps/issues"
+  },
+  "homepage": "https://github.com/WalidAlrefai/caps#readme",
+  "dependencies": {
+    "faker": "^6.6.6",
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0"
+  }
+}
